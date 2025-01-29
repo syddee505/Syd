@@ -1,0 +1,30 @@
+body{
+  background-color: #5dcdcd;
+}
+p{
+  text-align: center;
+  font-family:inherit;
+  }
+
+h1{
+  text-align: center;
+}
+img{
+  width: 220px;
+ height: 310px;  
+}
+.image{
+  display: flex;
+  justify-content:center;
+  justify-content: space-between;
+}
+a{
+  border-style:solid;
+  border-color: azure;
+  background-color:aqua;
+  border-radius: 10px;
+  padding: 3px;
+}
+.Links{
+  text-align: center;
+}
