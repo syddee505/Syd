@@ -1,0 +1,33 @@
+body {
+  background: #bbb6b6;
+}
+p {
+  color: black;
+  text-align:center;
+}
+h1 {
+  font-weight: bold;
+}
+.Title{
+  text-align: center;
+}
+img{
+  border-style:dotted;
+  border-color: #37d7cc;
+
+  border-width:20px;
+}
+.Image{
+  display: flex;
+  justify-content: center;
+}
+a{
+  border-style:solid;
+  border-color: azure;
+  background-color:aqua;
+  border-radius: 10px;
+  padding: 3px;
+}
+.Link{
+  text-align: center;
+}
